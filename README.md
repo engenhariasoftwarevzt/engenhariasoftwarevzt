@@ -8,7 +8,7 @@
 ```
 -  Exibir código fonte e copiar o conteúdo, certificado e salvar em algum diretório: 
 ```sh 
-    exemplo: /opt/certificado.cer
+    exemplo: /opt/certificado.x509
 ```
 - Executar software extrator dos pacotes e suas respectivas assinaturas, java=1.8
 ```sh 
